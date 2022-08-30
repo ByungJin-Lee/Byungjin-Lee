@@ -9,7 +9,7 @@
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=chackcooking&theme=warm)   
 1.2 프로그래머스
 ---   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byungjin-Lee&hide=jupyter%20notebook,TSQL)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Byungjin-Lee&hide=jupyter%20notebook,TSQL,C%23)](https://github.com/anuraghazra/github-readme-stats)
 깃허브   
 ===
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byungjin-Lee)](https://github.com/anuraghazra/github-readme-stats)
