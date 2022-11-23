@@ -1,6 +1,3 @@
-
-
-
 Stack
 ---
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
@@ -36,15 +33,12 @@ Team
 #### [MiniGameInJava](https://github.com/ByungJin-Lee/MiniGameInJava)
 > 온라인 1:1 미니게임, 방 생성 및 관리, 체스 게임 및 채팅, Mysql를 이용한 로그인 인증
 
-
 Personal
 #### [Twitch-Chat-Record-in-Java](https://github.com/ByungJin-Lee/Twitch-Chat-Record-in-Java)
 > IRC와 Twitch API를 이용한 채팅 분석, 활성 시청자 및 시청자 별 채팅 카운트, DB
 
 #### [NaverRealEstateHavester](https://github.com/ByungJin-Lee/NaverRealEstateHavester)
 > 공식 API 가 없는 네이버 부동산을 크롤링하여 머신 러닝해보자! 네이버 부동산 가격 머신러닝 AI
-
-Algorithm
 
 #### [Algorithm-Practice](https://github.com/ByungJin-Lee/Algorithm-Practice)
 > C++을 이용한 BackJoon, 프로그래머스 문제 풀이, 모든 알고리즘을 직접 구현해보자!
