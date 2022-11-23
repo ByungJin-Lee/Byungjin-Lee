@@ -40,5 +40,5 @@ Personal
 #### [NaverRealEstateHavester](https://github.com/ByungJin-Lee/NaverRealEstateHavester)
 > 공식 API 가 없는 네이버 부동산을 크롤링하여 머신 러닝해보자! 네이버 부동산 가격 머신러닝 AI
 
-#### [Algorithm-Practice](https://github.com/ByungJin-Lee/Algorithm-Practice)
+#### [Algorithm-Practice](https://github.com/ByungJin-Lee/Algorithm-Practice) 백준 Gold 2
 > C++을 이용한 BackJoon, 프로그래머스 문제 풀이, 모든 알고리즘을 직접 구현해보자!
