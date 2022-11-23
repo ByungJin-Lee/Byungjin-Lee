@@ -1,10 +1,50 @@
-알고리즘
-===
-1.1 백준
+
+
+
+Stack
 ---
-1.1.1 상태   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chackcooking)](https://solved.ac/chackcooking)   
-깃허브   
-===
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black)
+![](https://img.shields.io/badge/Java-ff0000?style=flat-square&logo=Java&logoColor=black)
+
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=black)
+![](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=black)
+![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)
+
+![](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=black)
+![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
+![](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white)
+
+![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
+![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=black)
+![](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=black)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)
+
+State
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Byungjin-Lee)](https://github.com/anuraghazra/github-readme-stats)
+
+Project
+---
+
+Team
+#### [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)
+> 식권을 이용한 학식 이용 및 대기시간 분석 사이트 (MongoDB, Express, React, AWS)
+
+#### [MiniGameInJava](https://github.com/ByungJin-Lee/MiniGameInJava)
+> 온라인 1:1 미니게임, 방 생성 및 관리, 체스 게임 및 채팅, Mysql를 이용한 로그인 인증
+
+
+Personal
+#### [Twitch-Chat-Record-in-Java](https://github.com/ByungJin-Lee/Twitch-Chat-Record-in-Java)
+> IRC와 Twitch API를 이용한 채팅 분석, 활성 시청자 및 시청자 별 채팅 카운트, DB
+
+#### [NaverRealEstateHavester](https://github.com/ByungJin-Lee/NaverRealEstateHavester)
+> 공식 API 가 없는 네이버 부동산을 크롤링하여 머신 러닝해보자! 네이버 부동산 가격 머신러닝 AI
+
+Algorithm
+
+#### [Algorithm-Practice](https://github.com/ByungJin-Lee/Algorithm-Practice)
+> C++을 이용한 BackJoon, 프로그래머스 문제 풀이, 모든 알고리즘을 직접 구현해보자!
