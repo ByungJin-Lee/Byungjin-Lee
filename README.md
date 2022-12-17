@@ -1,6 +1,5 @@
 Stack
 ---
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=black)
 ![](https://img.shields.io/badge/Java-ff0000?style=flat-square&logo=Java&logoColor=black)
@@ -8,7 +7,6 @@ Stack
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=black)
 ![](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=black)
-![](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=black)
 
 ![](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=Amazon-EC2&logoColor=black)
 ![](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
@@ -16,7 +14,6 @@ Stack
 
 ![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
 ![](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=black)
-![](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=black)
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)
 
 State
