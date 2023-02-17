@@ -23,11 +23,12 @@ Project
 ---
 
 Team
-#### [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)
-> 식권을 이용한 학식 이용 및 대기시간 분석 사이트 (MongoDB, Express, React, AWS)
 
 #### [Mos](https://github.com/inje-megabrain/Mos-fe)
 > Web 환경 Window GUI를 만들어 서버 내 폴더, 파일 등을 관리해보자. (24시간 해커톤, React)
+
+#### [Bapsim](https://github.com/CapstoneDesign-Plus/CapstoneDesign2022)
+> 식권을 이용한 학식 이용 및 대기시간 분석 사이트 (MongoDB, Express, React, AWS)
 
 #### [MiniGameInJava](https://github.com/ByungJin-Lee/MiniGameInJava)
 > 온라인 1:1 미니게임, 방 생성 및 관리, 체스 게임 및 채팅, Mysql를 이용한 로그인 인증
